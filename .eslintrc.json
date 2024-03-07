@@ -48,6 +48,7 @@
             "unnamedComponents": ["function-expression", "arrow-function"]
           }
         ],
-        "prettier/prettier": 2
+        "prettier/prettier": 2,
+        "import/no-extraneous-dependencies": 0
     }
 }
